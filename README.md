@@ -29,6 +29,7 @@ Spine Rolls (bend down slowly & up): 10 reps
 
 Leg Stretch (touch toes lightly): 30 sec hold
 
+---
 
 
 > Purpose: Wake up body, improve blood flow.
