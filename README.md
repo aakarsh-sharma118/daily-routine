@@ -31,7 +31,7 @@ Leg Stretch (touch toes lightly): 30 sec hold
 
 
 
-→ Purpose: Wake up body, improve blood flow.
+> Purpose: Wake up body, improve blood flow.
 
 
 ---
