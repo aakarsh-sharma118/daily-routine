@@ -1,4 +1,9 @@
 ---
+layout: default
+title: Daily Routine
+---
+
+---
 
 FINALIZED FULL DAILY ROUTINE + WEEKLY BREAKDOWN
 
