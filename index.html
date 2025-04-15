@@ -661,7 +661,9 @@
          });
          if ('serviceWorker' in navigator) {
          window.addEventListener('load', function() {
-         navigator.serviceWorker.register('/service-worker.js')
+         navigator.serviceWorker.register('/daily-routine/service-worker.js', {
+         scope: '/daily-routine/'
+         })
          .then(function(registration) {
            console.log('Service Worker registered with scope:', registration.scope);
          })
