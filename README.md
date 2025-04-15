@@ -469,11 +469,17 @@ Light breathing (inhale 4 sec, exhale 6 sec x 5 rounds).
 WEEKLY SPECIAL PLAN:
 
 Monday: Hair Wash Day
+
 Tuesday: Hair Oiling Day (Evening)
+
 Wednesday: Hair Wash Day
+
 Friday: Hair Wash Day
+
 Saturday: Hair Oiling Day (Evening), Optional Derma Roll (Morning)
+
 Sunday: Optional Derma Roll (Night)
+
 
 ---
 
