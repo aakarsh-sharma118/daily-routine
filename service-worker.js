@@ -1,12 +1,12 @@
 const CACHE_NAME = "daily-routine-tracker-cache-v1";
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/manifest.json",
-  "/icons/icon-192x192.png",
-  "/icons/icon-512x512.png",
-  "/icons/favicon-32x32.png",
-  "/icons/favicon-16x16.png",
+  "/daily-routine/",
+  "/daily-routine/index.html",
+  "/daily-routine/manifest.json",
+  "/daily-routine/icons/icon-192x192.png",
+  "/daily-routine/icons/icon-512x512.png",
+  "/daily-routine/icons/favicon-32x32.png",
+  "/daily-routine/icons/favicon-16x16.png",
 ];
 
 // Install event: cache all necessary files
