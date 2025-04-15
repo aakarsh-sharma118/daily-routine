@@ -1,7 +1,7 @@
 {
   "name": "Daily Routine Tracker",
   "short_name": "RoutineTracker",
-  "start_url": "/",
+  "start_url": "/daily-routine/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
